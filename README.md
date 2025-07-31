@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Manisha,
 
-# 👩‍💻 Monikha | Data Scientist & ML Engineer
+# 👩‍💻 Manisha | Data Scientist & ML Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manishasas&label=Profile%20Views&color=0e75b6&style=flat)
 
