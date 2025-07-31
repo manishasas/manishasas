@@ -1,5 +1,9 @@
 ## Hi 👋, I'm Manisha,
 
+# 👩‍💻 Monikha | Data Scientist & ML Engineer
+
+![Profile Views](https://komarev.com/ghpvc/?username=manishasas&label=Profile%20Views&color=0e75b6&style=flat)
+
 Welcome to my GitHub Portfolio!  
 I’m a passionate **Data Scientist & Engineer** focused on solving real-world problems using data, AI, and AWS cloud technologies. I love building end-to-end ML pipelines, analyzing data, and deploying models to production 🚀.
 
