@@ -22,7 +22,7 @@ I’m a passionate **Data Scientist & Engineer** focused on solving real-world p
 
 
 
-## 📊 Featured Projects
+## 📊 Projects
 
 🔍 [HousePricePrediction](https://github.com/manishasas/HousePricePrediction)
 
